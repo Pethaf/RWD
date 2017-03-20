@@ -27,7 +27,7 @@ img {
 		font-size: 2.5rem;
 		text-align: left;
 	}
-	.Ingredients 
+	.ingredients 
 	{
 		font-size: 0.9rem;
 		float:right;
@@ -37,7 +37,7 @@ img {
 		background-color: #ffffdf;
 		border: 2px solid #e8cfa9;
 	}
-	.Ingredients h3
+	.ingredients h3
 	{
 		margin: 0;
 	}
